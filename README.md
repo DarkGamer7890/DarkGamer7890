@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python but have already learned a little bit C
 - 🤗 Just a beginner but will become a successful coder one day.
 
-- Find about me on About.me  --> https://about.me/parthdhall7
+- Find about me on About.me  --> https://about.me/parthdhall
+- Check out my personal website --> whoami.parthdhall7.repl.co
+- 
 
 <!---
 DarkGamer7890/DarkGamer7890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
