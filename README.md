@@ -4,7 +4,7 @@
 - 🤗 Just a beginner but will become a successful coder one day.
 
 - Find about me on About.me  --> https://about.me/parthdhall
-- Check out my personal website --> https://whoami.parthdhall7.repl.co
+- Check out my personal website --> https://whoami--parthdhall7.repl.co/
   
 
 <!---
