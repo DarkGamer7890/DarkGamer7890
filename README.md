@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DarkGamer7890
-- 👀 I’m interested in Coding and making apps
-- 🌱 I’m currently learning JAVA but have already learned a little bit C
+- 👀 Currently focusing in DSA questions
+- ⭐Codechef Div3 highest rating 1427 and max rank approx 39000
+- 🌱 I’m currently learning javascript but have already learned a little bit C and C++
 - 🤗 Just a beginner but will become a successful coder one day.
 
 - Find about me on About.me  --> https://about.me/parthdhall
