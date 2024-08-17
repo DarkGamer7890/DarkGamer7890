@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DarkGamer7890
-- 👀 Currently focusing in DSA questions
-- ⭐Codechef Div3 highest rating 1427 and max rank approx 39000
-- 🌱 I’m currently learning javascript but have already learned a little bit C and C++
-- 🤗 Just a beginner but will become a successful coder one day.
+- 👀 Mainly focusing on DSA.
+- ⭐Codechef Div3 highest rating 1501 and global rank of 28810.
+- 🌟Leetcode rating 1624 and rank of 111416 in contests.
+- 🌱 Currently learning Python, knows beginner-level C and C++.
+- 🤗 Not decided which field to choose until now.
 
 - Find about me on About.me  --> https://about.me/parthdhall
 - Check out my personal website --> https://whoami--parthdhall7.repl.co/
