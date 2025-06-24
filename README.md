@@ -5,7 +5,6 @@
 - 🌱 Currently learning Python, knows beginner-level C and C++.
 - 🤗 Not decided which field to choose until now.
 
-- Find about me on About.me  --> https://about.me/parthdhall
 - Check out my personal website --> https://whoami--parthdhall7.repl.co/
   
 
