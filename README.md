@@ -5,7 +5,7 @@
 - 🌱 Currently learning Python, knows beginner-level C and C++.
 - 🤗 Not decided which field to choose until now.
 
-- Check out my personal website --> https://whoami--parthdhall7.repl.co/
+- Check out my personal website --> https://html-preview.github.io/?url=https://github.com/DarkGamer7890/whoami/blob/main/WhoAmI/whoami/myintro/templates/index.html
   
 
 <!---
